@@ -5,6 +5,11 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTAD.QuintaProtocolo.WPF", "UTAD.QuintaProtocolo.WPF\UTAD.QuintaProtocolo.WPF.csproj", "{ECE284FA-0E0D-4DAA-A8AE-C581CF8EB26C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".Solution items", ".Solution items", "{2C04256D-657F-44CD-B22A-75C380A1714E}"
+	ProjectSection(SolutionItems) = preProject
+		..\s.rtf = ..\s.rtf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
