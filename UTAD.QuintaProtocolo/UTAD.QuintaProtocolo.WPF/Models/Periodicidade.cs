@@ -7,6 +7,6 @@ namespace UTAD.QuintaProtocolo.WPF.Models
     {
           public string Tipo { get; set; }
 
-          public IList<string> DiasSemana { get; set; }
+          public IList<string> DiasSemana { get; set; } 
     }
 }
