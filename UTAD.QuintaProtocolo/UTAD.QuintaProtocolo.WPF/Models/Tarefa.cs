@@ -27,8 +27,8 @@ namespace UTAD.QuintaProtocolo.WPF.Models
 
         public string Estado { get; set; }
 
-        public string AlertaAntecipação { get; set; }
+        public bool AlertaAntecipação { get; set; } = false;
 
-        public string AlertaExecução { get; set; }
+        public bool AlertaExecução { get; set; } = false;
     }
 }
