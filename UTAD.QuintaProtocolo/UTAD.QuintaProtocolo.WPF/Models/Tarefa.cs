@@ -30,11 +30,5 @@ namespace UTAD.QuintaProtocolo.WPF.Models
         public string AlertaAntecipação { get; set; }
 
         public string AlertaExecução { get; set; }
-
-
-
-
-
-
     }
 }
